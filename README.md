@@ -50,6 +50,10 @@
 - **Enhanced AI strategies** using reinforcement learning
 - **Improved UI/UX** with animations and better visuals
 
+## 🤝 Team Members
+- **Raduan Islam Rian** - [GitHub](https://github.com/raduan-rian)
+- **Doniel Tripura** - [GitHub](https://github.com/doniel-tripura)
+
 ## 🤝 Contributing
 Feel free to fork this repository, create issues, and submit pull requests to improve the game! 🎮
 
